@@ -1,0 +1,1 @@
+/home/integral/itis_robot/build/ur_simulation_gz/ament_cmake_core/ur_simulation_gzConfig.cmake

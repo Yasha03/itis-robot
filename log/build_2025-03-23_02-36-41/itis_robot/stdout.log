@@ -1,0 +1,21 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/launch/gazebo_model.launch.py
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/model/robot.gazebo
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/model/robot.xacro
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/parameters/bridge_parameters.yaml
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/ament_index/resource_index/package_run_dependencies/itis_robot
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/ament_index/resource_index/parent_prefix_path/itis_robot
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/path.sh
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/path.dsv
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.bash
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.sh
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.zsh
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.dsv
+-- Symlinking: /home/integral/itis_robot/install/itis_robot/share/itis_robot/package.dsv
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/ament_index/resource_index/packages/itis_robot
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/cmake/itis_robotConfig.cmake
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/cmake/itis_robotConfig-version.cmake
+-- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/package.xml

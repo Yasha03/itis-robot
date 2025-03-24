@@ -1,0 +1,4 @@
+source;share/itis_robot/local_setup.bash
+source;share/itis_robot/local_setup.dsv
+source;share/itis_robot/local_setup.sh
+source;share/itis_robot/local_setup.zsh

@@ -1,0 +1,1 @@
+Invoking command in '/home/integral/itis_robot/build/itis_robot': /usr/bin/cmake /home/integral/itis_robot/src/itis_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/itis_robot

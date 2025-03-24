@@ -1,0 +1,6 @@
+Invoking command in '/home/integral/itis_robot/build/itis_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/integral/itis_robot/src/itis_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/itis_robot
+Invoked command in '/home/integral/itis_robot/build/itis_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/integral/itis_robot/src/itis_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/itis_robot
+Invoking command in '/home/integral/itis_robot/build/itis_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/integral/itis_robot/build/itis_robot -- -j16 -l16
+Invoked command in '/home/integral/itis_robot/build/itis_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/integral/itis_robot/build/itis_robot -- -j16 -l16
+Invoking command in '/home/integral/itis_robot/build/itis_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/integral/itis_robot/build/itis_robot
+Invoked command in '/home/integral/itis_robot/build/itis_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/integral/itis_robot/build/itis_robot

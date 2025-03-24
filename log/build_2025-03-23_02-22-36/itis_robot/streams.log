@@ -1,0 +1,25 @@
+[0.016s] Invoking command in '/home/integral/itis_robot/build/itis_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/integral/itis_robot/build/itis_robot -- -j16 -l16
+[0.069s] Invoked command in '/home/integral/itis_robot/build/itis_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/integral/itis_robot/build/itis_robot -- -j16 -l16
+[0.082s] Invoking command in '/home/integral/itis_robot/build/itis_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/integral/itis_robot/build/itis_robot
+[0.092s] -- Install configuration: ""
+[0.092s] -- Execute custom install script
+[0.093s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/launch/gazebo_model.launch.py
+[0.093s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/model/robot.gazebo
+[0.093s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/model/robot.xacro
+[0.093s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/parameters/bridge_parameters.yaml
+[0.094s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/ament_index/resource_index/package_run_dependencies/itis_robot
+[0.094s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/ament_index/resource_index/parent_prefix_path/itis_robot
+[0.094s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/ament_prefix_path.sh
+[0.094s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/ament_prefix_path.dsv
+[0.094s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/path.sh
+[0.095s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/environment/path.dsv
+[0.095s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.bash
+[0.095s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.sh
+[0.095s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.zsh
+[0.095s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/local_setup.dsv
+[0.095s] -- Symlinking: /home/integral/itis_robot/install/itis_robot/share/itis_robot/package.dsv
+[0.107s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/ament_index/resource_index/packages/itis_robot
+[0.108s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/cmake/itis_robotConfig.cmake
+[0.108s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/cmake/itis_robotConfig-version.cmake
+[0.108s] -- Up-to-date symlink: /home/integral/itis_robot/install/itis_robot/share/itis_robot/package.xml
+[0.110s] Invoked command in '/home/integral/itis_robot/build/itis_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/integral/itis_robot/build/itis_robot

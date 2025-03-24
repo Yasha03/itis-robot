@@ -1,0 +1,1 @@
+/home/integral/itis_robot/build/itis_robot/ament_cmake_core/itis_robotConfig.cmake

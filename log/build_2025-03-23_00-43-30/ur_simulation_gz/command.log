@@ -1,0 +1,2 @@
+Invoking command in '/home/integral/itis_robot/build/ur_simulation_gz': /usr/bin/cmake /home/integral/itis_robot/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/ur_simulation_gz
+Invoked command in '/home/integral/itis_robot/build/ur_simulation_gz' returned '1': /usr/bin/cmake /home/integral/itis_robot/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/ur_simulation_gz

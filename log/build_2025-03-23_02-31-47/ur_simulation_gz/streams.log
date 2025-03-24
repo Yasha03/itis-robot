@@ -1,0 +1,36 @@
+[0.012s] Invoking command in '/home/integral/itis_robot/build/ur_simulation_gz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/integral/itis_robot/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/ur_simulation_gz
+[0.027s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.264s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.273s] -- Found launch_testing_ament_cmake: 3.4.3 (/opt/ros/jazzy/share/launch_testing_ament_cmake/cmake)
+[0.273s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[0.435s] -- Found ament_cmake_pytest: 2.5.3 (/opt/ros/jazzy/share/ament_cmake_pytest/cmake)
+[0.790s] -- Configuring done (0.8s)
+[0.793s] -- Generating done (0.0s)
+[0.795s] -- Build files have been written to: /home/integral/itis_robot/build/ur_simulation_gz
+[0.799s] Invoked command in '/home/integral/itis_robot/build/ur_simulation_gz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/integral/itis_robot/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/ur_simulation_gz
+[0.800s] Invoking command in '/home/integral/itis_robot/build/ur_simulation_gz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/integral/itis_robot/build/ur_simulation_gz -- -j16 -l16
+[0.840s] Invoked command in '/home/integral/itis_robot/build/ur_simulation_gz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/integral/itis_robot/build/ur_simulation_gz -- -j16 -l16
+[0.841s] Invoking command in '/home/integral/itis_robot/build/ur_simulation_gz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/integral/itis_robot/build/ur_simulation_gz
+[0.850s] -- Install configuration: ""
+[0.851s] -- Execute custom install script
+[0.851s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/config/ur_controllers.yaml
+[0.852s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/launch/ur_sim_control.launch.py
+[0.852s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/launch/ur_sim_moveit.launch.py
+[0.852s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/urdf/ur_gz.ros2_control.xacro
+[0.852s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/urdf/ur_gz.urdf.xacro
+[0.852s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ament_index/resource_index/package_run_dependencies/ur_simulation_gz
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ament_index/resource_index/parent_prefix_path/ur_simulation_gz
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/environment/ament_prefix_path.sh
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/environment/ament_prefix_path.dsv
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/environment/path.sh
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/environment/path.dsv
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.bash
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.sh
+[0.853s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.zsh
+[0.854s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.dsv
+[0.854s] -- Symlinking: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/package.dsv
+[0.863s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ament_index/resource_index/packages/ur_simulation_gz
+[0.863s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/cmake/ur_simulation_gzConfig.cmake
+[0.864s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/cmake/ur_simulation_gzConfig-version.cmake
+[0.864s] -- Up-to-date symlink: /home/integral/itis_robot/install/ur_simulation_gz/share/ur_simulation_gz/package.xml
+[0.866s] Invoked command in '/home/integral/itis_robot/build/ur_simulation_gz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/integral/itis_robot/build/ur_simulation_gz

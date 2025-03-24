@@ -1,0 +1,32 @@
+[0.009s] Invoking command in '/home/integral/itis_robot/build/ur_simulation_gz': /usr/bin/cmake /home/integral/itis_robot/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/ur_simulation_gz
+[0.110s] -- The C compiler identification is GNU 13.3.0
+[0.216s] -- The CXX compiler identification is GNU 13.3.0
+[0.237s] -- Detecting C compiler ABI info
+[0.345s] -- Detecting C compiler ABI info - done
+[0.356s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.356s] -- Detecting C compile features
+[0.356s] -- Detecting C compile features - done
+[0.367s] -- Detecting CXX compiler ABI info
+[0.481s] -- Detecting CXX compiler ABI info - done
+[0.492s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.493s] -- Detecting CXX compile features
+[0.493s] -- Detecting CXX compile features - done
+[0.508s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[0.508s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.508s]   has asked CMake to find a package configuration file provided by
+[0.508s]   "ament_cmake", but CMake did not find one.
+[0.508s] 
+[0.508s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.509s]   any of the following names:
+[0.509s] 
+[0.509s]     ament_cmakeConfig.cmake
+[0.509s]     ament_cmake-config.cmake
+[0.509s] 
+[0.509s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.509s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.509s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.509s]   has been installed.
+[0.509s] 
+[0.509s] [0m
+[0.509s] -- Configuring incomplete, errors occurred!
+[0.512s] Invoked command in '/home/integral/itis_robot/build/ur_simulation_gz' returned '1': /usr/bin/cmake /home/integral/itis_robot/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/integral/itis_robot/install/ur_simulation_gz
